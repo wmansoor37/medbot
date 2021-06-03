@@ -1,11 +1,5 @@
 id,patterns,responses
-1,Allergy,"nasal congestion,
-itchy and watery eyes,
-sneezing,
-stuffy or runny nose,
-scratchy or sore throat,
-throat clearing,
-cough from postnasal drip."
+1,Allergy,nasal congestion,itchy and watery eyes,sneezing,stuffy or runny nose,scratchy or sore throat,throat clearing,cough from postnasal drip.
 2,anemia,"Feel tired or lightheaded (sometimes with fainting)
 Weakness
 Fatigue easily
